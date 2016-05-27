@@ -10,4 +10,4 @@ Pour créer les liens on s'arrange pour essayer d'avoir des patterns qui maximis
 
 Au final cette IA est arrivée 8ème au classement général.
 
-L'ensemble de son code à l'exception des fichiers prologin.hh, prologin.cc et Makefile (sous GPLv2) est sous license CC-BY-NC.
+L'ensemble de son code à l'exception des fichiers prologin.hh, prologin.cc et Makefile (sous GPLv2) est sous license Apache 2.0.
